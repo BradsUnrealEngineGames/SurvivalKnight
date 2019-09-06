@@ -1,0 +1,1 @@
+These assets were developed by Epic Games for the Oculus Couch Knight demo and are available from the Learn tab. These assets may not be used outside of Unreal Engine 4 projects without permission from Epic Games.
